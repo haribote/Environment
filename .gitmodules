@@ -4,3 +4,6 @@
 [submodule "Brewfile"]
 	path = Brewfile
 	url = git@github.com:haribote/Brewfile.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com:haribote/dotfiles.git
