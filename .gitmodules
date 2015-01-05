@@ -7,3 +7,6 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = git@github.com:haribote/dotfiles.git
+[submodule "tig"]
+	path = tig
+	url = git@github.com:jonas/tig.git
