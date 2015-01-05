@@ -10,3 +10,6 @@
 [submodule "tig"]
 	path = tig
 	url = git@github.com:jonas/tig.git
+[submodule "molokai"]
+	path = molokai
+	url = git@github.com:tomasr/molokai.git
